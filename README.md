@@ -1,5 +1,7 @@
 # Cycloidal_gearbox
-360KV BLDC Cycloidal gearbox fully 3d printed. I got 1 Nm of torque but only with a standard ESC, my simpleFOC Mini didnt work and i dont have anything else
+360KV BLDC Cycloidal gearbox fully 3d printed. I got 1 Nm of torque but only with a standard ESC, my simpleFOC Mini didnt work and i dont have anything else.
+
+The Cycloidal Disk where created in Fusion 360 because the program to generate them was better there
 
 #CAD
 https://cad.onshape.com/documents/449d4445e8c5a86aaa6f39a0/w/e1539db3637c2dfb86d76a85/e/a323455fac2743324b509c93
